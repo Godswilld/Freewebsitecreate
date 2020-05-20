@@ -1244,7 +1244,8 @@
       "settings": {
         "meta_descr": "Marketing images, ideas, graphics animation and marketing creativity.",
         "title": "Marketing Graphics",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/adv-1345x579.png"
       },
       "components": [
         {
