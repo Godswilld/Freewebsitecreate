@@ -875,6 +875,14 @@ section.lazy-placeholder:after {
 .cid-rWDwAmNIXb P {
   color: #465052;
 }
+.cid-rZu8VbMePR {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #e4d295, #d629b1);
+}
+.cid-rZu8VbMePR .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-rWECPsU1rz .navbar {
   background: #f9c0f1;
   transition: none;
