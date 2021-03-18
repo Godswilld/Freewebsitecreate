@@ -1001,6 +1001,38 @@ section.lazy-placeholder:after {
 .cid-rWDwE0Qv2Q P {
   color: #465052;
 }
+.cid-ss1wlF56k4 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ss1wlF56k4 .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-ss1yXXgPxM {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-ss1yXXgPxM .title {
+  margin-bottom: 2rem;
+}
+.cid-ss1yXXgPxM .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-ss1yXXgPxM a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-ss1yXXgPxM a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-ss1yXXgPxM textarea.form-control {
+  min-height: 188px;
+}
+.cid-ss1yXXgPxM H2 {
+  color: #ffffff;
+}
 .cid-rWECPsU1rz .navbar {
   background: #f9c0f1;
   transition: none;
